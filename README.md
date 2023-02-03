@@ -1,15 +1,15 @@
-# Welcome to the README file of emgo.space
+# Welcome to emgo.space
 
 This is the vessel that contains stories and projects created by em-go
 
 
 
 
-#### Index
+## Index
 
 1. [Projects](#projects)
-    - [Xenoarchaeology RPG](#xenoarchaeology-rpg)
     - [A Walk in the Woods RPG](#a-walk-in-the-woods-rpg)
+    - [Xenoarchaeology RPG](#xenoarchaeology-rpg)
 2. [Earth Exploration Project](#earth-exploration-files)
 3. [Story Time](#story-time)
 
@@ -21,6 +21,7 @@ This is the vessel that contains stories and projects created by em-go
 This is the corner of the internet that holds projects I am working on, any updates to projects will be noted here and in the individual project's README
 
 
+***
 ### A Walk in the Woods RPG
 
 > **Status:** _WIP - Currently in project planning phase, final name is pending_
@@ -30,6 +31,7 @@ This is the corner of the internet that holds projects I am working on, any upda
 Player has the ability to customize hiker. Hiker hunger and energy levels must be maintained, and injuries must be prevented, or else you must get off trail. 
 
 
+***
 ### Xenoarchaeology RPG 
 
 > **Status:** _WIP - Currently in project planning phase, final name is pending_
@@ -41,6 +43,9 @@ The intergalactic travelers arrive at the third planet of a remote solar system 
 Archaeological expeditions allow you to find and study artefacts left behind by the population that once inhabited this planet. Any artefacts or remains found will be added to the history log of this planet. The history log gets uploaded into the intergalactic server which all citizens have access to. You are fully responsible for documenting the entire history of this planet before it is completely destroid and razed for resources. Everything you find becomes the history, so this can get pretty weird if you only document some things.
 
 Player has the ability to fully customize their character, oh yeah they aren't human so they could be whatever weird alien thing they want.
+
+
+***
 
 
 
